@@ -1,0 +1,13 @@
+{
+  "name": "NOVAFON France",
+  "short_name": "NOVAFON",
+  "lang": "fr",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0C1E2B",
+  "icons": [
+    { "src": "assets/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
